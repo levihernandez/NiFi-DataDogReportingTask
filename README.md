@@ -110,7 +110,7 @@ Current limitations: The task does not successfully pass the metadata to Datadog
 
 
 Sources:
-[NiFi Documentation](https://nifi.apache.org/docs/nifi-docs/)
-[DataDogReportingTask Source Code](https://github.com/apache/nifi/blob/66e2741871e4de25631ffe32b961a622ca5e3ceb/nifi-nar-bundles/nifi-datadog-bundle/nifi-datadog-reporting-task/src/main/java/org/apache/nifi/reporting/datadog/DataDogReportingTask.java)
-[NiFi.rocks - Monitoring with Data Dog](https://www.nifi.rocks/monitoring-with-data-dog/)
-[Syncfusion - Data Integration](https://help.syncfusion.com/data-integration/reportingtasks/datadogreportingtask)
+* [NiFi Documentation](https://nifi.apache.org/docs/nifi-docs/)
+* [DataDogReportingTask Source Code](https://github.com/apache/nifi/blob/66e2741871e4de25631ffe32b961a622ca5e3ceb/nifi-nar-bundles/nifi-datadog-bundle/nifi-datadog-reporting-task/src/main/java/org/apache/nifi/reporting/datadog/DataDogReportingTask.java)
+* [NiFi.rocks - Monitoring with Data Dog](https://www.nifi.rocks/monitoring-with-data-dog/)
+* [Syncfusion - Data Integration](https://help.syncfusion.com/data-integration/reportingtasks/datadogreportingtask)
